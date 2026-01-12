@@ -1,128 +1,21 @@
-Understood — this is a **GitHub Profile README**, not a project README.
-Below is a **clean, professional, portfolio-grade `README.md`** you can place directly in a repository named **`KarthikP47`** (GitHub uses that to render your profile).
+# 💫 About Me:
+Im currently a Btech Final year student <br>Im a full stack developer <br>Ai enthusiast <br>Sports person
 
-It is **resume-aligned**, recruiter-friendly, and avoids sensitive details.
 
----
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:karthikp480477@gmail.com) 
 
-# 👋 Hi, I’m Karthik P
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Square Enix](https://img.shields.io/badge/SquareEnix-%23ED1C24.svg?style=for-the-badge&logo=SquareEnix&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=KarthikP47&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=KarthikP47&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KarthikP47&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![Profile Views](https://komarev.com/ghpvc/?username=KarthikP47\&color=blue)
-![GitHub Followers](https://img.shields.io/github/followers/KarthikP47?label=Followers)
-![GitHub Stars](https://img.shields.io/github/stars/KarthikP47?label=Stars)
-
-🎓 **B.Tech Computer Science & Engineering (Pursuing)**
-💻 **Aspiring Full-Stack Developer | Problem Solver | Tech Enthusiast**
-
----
-
-## 🚀 About Me
-
-I’m a Computer Science undergraduate with a strong interest in **full-stack web development and software engineering**. I enjoy building practical applications, solving real-world problems, and continuously learning new technologies.
-
-I have hands-on experience developing **end-to-end applications**, working with both frontend and backend systems, and collaborating in team-based environments such as hackathons and academic projects.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=KarthikP47&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=KarthikP47&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🛠️ Technical Skills
-
-### 💻 Programming Languages
-
-* Python
-* Java
-* C / C++
-* JavaScript
-* SQL
-* Dart
-
-### 🌐 Web & App Development
-
-* React.js
-* Node.js
-* Express.js
-* HTML, CSS, Bootstrap
-
-### 🗄 Databases
-
-* MySQL
-* MongoDB
-
-### 🔧 Tools & Platforms
-
-* Git & GitHub
-* VS Code
-* Android Studio
-
----
-
-## 📌 Featured Projects
-
-### ⚽ Sportify — Football Information Hub
-
-**Tech:** React.js, Node.js, Express.js, MySQL
-
-* Built a full-stack football platform with live match data, standings, fixtures, and transfer news
-* Integrated REST APIs for real-time updates
-* Designed a community forum to enhance user engagement
-
-### 📱 MobStore — e-Commerce Mobile Store System
-
-**Tech:** Python (Tkinter), Django, MySQL
-
-* Desktop application for inventory, billing, and customer management
-* Solved real-world challenges faced by small retailers
-* Focused on usability, data consistency, and secure storage
-
----
-
-## 📊 Certifications & Learning
-
-* **Data Analytics Using Python** — IBM SkillsBuild
-
-  * Data wrangling, visualization, and analysis using Pandas & Matplotlib
-* **Introduction to AI Agents** — IBM SkillsBuild
-
-  * Foundations of intelligent agents and decision-making models
-
----
-
-## 🧠 Strengths
-
-* Strong problem-solving mindset
-* Quick learner and adaptable
-* Leadership and teamwork experience
-* Clear communication in collaborative environments
-
----
-
-## 🌱 Currently Exploring
-
-* Advanced React patterns
-* Backend architecture & API design
-* Database optimization
-* Testing and deployment workflows
-
----
-
-## 📫 Let’s Connect
-
-* **GitHub:** [https://github.com/KarthikP47](https://github.com/KarthikP47)
-* **LinkedIn:** [https://www.linkedin.com/in/karthikp47](https://www.linkedin.com/in/karthikp47)
-
----
-
-> *“Code is not just about solving problems — it’s about building solutions that matter.”*
-
----
-
-### ✅ Next Steps (Optional Enhancements)
-
-If you want, I can:
-
-* Add **GitHub stats cards**
-* Add **tech stack icons**
-* Make a **minimal aesthetic version**
-* Optimize it specifically for **recruiters / placements**
-* Generate a **banner image** for the profile
-
-Just tell me the style you want.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
